@@ -16,7 +16,7 @@ function Home() {
                     id={12321341}
                     title='The Lean StartUp:How the Constant Innovation Creates'
                     price={11.96}
-                    rating={2}
+                    rating={5}
                     image={"https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"}
                 />
                 <Product
